@@ -1,0 +1,383 @@
+# Copyright (C) 2026 Artem Avvakumov
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Token-Based Access 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-24 17:26+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: token-based-access\n"
+
+
+#: tba-admin-view-tokens.php:18 tba-admin-view-tokens.php:19
+#: tba-admin-view-tokens.php:115
+msgid "Access tokens"
+msgstr ""
+
+#: tba-admin-view-tokens.php:33
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: tba-admin-view-tokens.php:44
+msgid "Token deleted successfully."
+msgstr ""
+
+#: tba-admin-view-tokens.php:46
+msgid "Failed to delete token."
+msgstr ""
+
+#: tba-admin-view-tokens.php:51
+msgid "Token blocked successfully."
+msgstr ""
+
+#: tba-admin-view-tokens.php:53
+msgid "Failed to block token."
+msgstr ""
+
+#: tba-admin-view-tokens.php:58
+msgid "Token unblocked successfully."
+msgstr ""
+
+#: tba-admin-view-tokens.php:60
+msgid "Failed to unblock token."
+msgstr ""
+
+#: tba-admin-view-tokens.php:65
+msgid "Token activated successfully."
+msgstr ""
+
+#: tba-admin-view-tokens.php:67
+msgid "Failed to activate token."
+msgstr ""
+
+#: tba-admin-view-tokens.php:72
+msgid "Token deactivated successfully."
+msgstr ""
+
+#: tba-admin-view-tokens.php:74
+msgid "Failed to deactivate token."
+msgstr ""
+
+#: tba-admin-view-tokens.php:123
+msgid "Email:"
+msgstr ""
+
+#: tba-admin-view-tokens.php:128
+msgid "Blocked:"
+msgstr ""
+
+#: tba-admin-view-tokens.php:130 tba-admin-view-tokens.php:139
+msgid "All"
+msgstr ""
+
+#: tba-admin-view-tokens.php:131 tba-admin-view-tokens.php:140
+msgid "Yes"
+msgstr ""
+
+#: tba-admin-view-tokens.php:132 tba-admin-view-tokens.php:141
+msgid "No"
+msgstr ""
+
+#: tba-admin-view-tokens.php:137
+msgid "Expired:"
+msgstr ""
+
+#: tba-admin-view-tokens.php:146
+msgid "Filter"
+msgstr ""
+
+#: tba-admin-view-tokens.php:148
+msgid "Clear"
+msgstr ""
+
+#: tba-admin-view-tokens.php:157
+msgid "No tokens found."
+msgstr ""
+
+#: tba-admin-view-tokens.php:162
+msgid "ID"
+msgstr ""
+
+#: tba-admin-view-tokens.php:163 tba-woocommerce.php:418
+msgid "Email"
+msgstr ""
+
+#: tba-admin-view-tokens.php:164
+msgid "Hours Allowed"
+msgstr ""
+
+#: tba-admin-view-tokens.php:165
+msgid "Created"
+msgstr ""
+
+#: tba-admin-view-tokens.php:166 tba-admin-view-tokens.php:183
+#: tba-woocommerce.php:420
+msgid "Started"
+msgstr ""
+
+#: tba-admin-view-tokens.php:167 tba-woocommerce.php:419
+msgid "Status"
+msgstr ""
+
+#: tba-admin-view-tokens.php:168
+msgid "IP Address"
+msgstr ""
+
+#: tba-admin-view-tokens.php:169
+msgid "Actions"
+msgstr ""
+
+#: tba-admin-view-tokens.php:179 tba-woocommerce.php:431
+#: tba-woocommerce.php:483
+msgid "Blocked"
+msgstr ""
+
+#: tba-admin-view-tokens.php:181 tba-woocommerce.php:434
+#: tba-woocommerce.php:486
+msgid "Expired"
+msgstr ""
+
+#: tba-admin-view-tokens.php:185 tba-woocommerce.php:437
+msgid "Not Started"
+msgstr ""
+
+#: tba-admin-view-tokens.php:212
+msgid "Block"
+msgstr ""
+
+#: tba-admin-view-tokens.php:214
+msgid "Unblock"
+msgstr ""
+
+#: tba-admin-view-tokens.php:217
+msgid "Are you sure you want to delete this token?"
+msgstr ""
+
+#: tba-admin-view-tokens.php:217
+msgid "Delete"
+msgstr ""
+
+#: tba-admin-view-tokens.php:232
+msgid "&laquo;"
+msgstr ""
+
+#: tba-admin-view-tokens.php:233
+msgid "&raquo;"
+msgstr ""
+
+#: tba-admin-view-tokens.php:256 tba-woocommerce.php:413
+#, php-format
+msgid "Total tokens: %d"
+msgstr ""
+
+#: token-based-access.php:47
+msgid "Token-based access requires WooCommerce to be installed and active."
+msgstr ""
+
+#: token-based-access.php:176
+#, php-format
+msgid "Incorrect post type - should be \"%s\""
+msgstr ""
+
+#: token-based-access.php:203
+msgid "N/A"
+msgstr ""
+
+#: token-based-access.php:416 tba-woocommerce.php:491
+msgid "Never"
+msgstr ""
+
+#: tba-woocommerce.php:210
+#, php-format
+msgid "Token created for order #%s: %s"
+msgstr ""
+
+#: tba-woocommerce.php:278 tba-woocommerce.php:291 tba-woocommerce.php:321
+msgid "Access Tokens"
+msgstr ""
+
+#: tba-woocommerce.php:352
+msgid "Unable to determine order ID."
+msgstr ""
+
+#: tba-woocommerce.php:367
+msgid "No tokens found for this order."
+msgstr ""
+
+#: tba-woocommerce.php:417
+msgid "Token ID"
+msgstr ""
+
+#: tba-woocommerce.php:441
+msgid "Time Expired"
+msgstr ""
+
+#: tba-woocommerce.php:443 tba-woocommerce.php:447 tba-woocommerce.php:479
+msgid "Active"
+msgstr ""
+
+#: tba-woocommerce.php:459 tba-woocommerce.php:507
+msgid "Expires:"
+msgstr ""
+
+#: tba-woocommerce.php:461
+msgid "Never expires"
+msgstr ""
+
+#: tba-woocommerce.php:474
+#, php-format
+msgid "Sessions (%d):"
+msgstr ""
+
+#: tba-woocommerce.php:506
+msgid "Started:"
+msgstr ""
+
+#: tba-woocommerce.php:509
+msgid "IP:"
+msgstr ""
+
+#: tba-woocommerce.php:512
+msgid "User Agent:"
+msgstr ""
+
+#: tba-settings.php:20
+msgid "Tokens"
+msgstr ""
+
+#: tba-settings.php:38
+msgid "Select a product"
+msgstr ""
+
+#: tba-settings.php:55
+msgid "Select a post type for ads"
+msgstr ""
+
+#: tba-settings.php:71
+msgid "Select a post type"
+msgstr ""
+
+#: tba-settings.php:85
+msgid "Token Settings"
+msgstr ""
+
+#: tba-settings.php:87
+msgid "Configure token-based access settings."
+msgstr ""
+
+#: tba-settings.php:91
+msgid "Hours of access"
+msgstr ""
+
+#: tba-settings.php:92
+msgid "Number of hours to be provided by token(1-1000)."
+msgstr ""
+
+#: tba-settings.php:104
+msgid "Product"
+msgstr ""
+
+#: tba-settings.php:105
+msgid "Select a WooCommerce product to be used as a token product."
+msgstr ""
+
+#: tba-settings.php:114
+msgid "Meta field for owner name"
+msgstr ""
+
+#: tba-settings.php:121
+msgid "Meta field for owner email"
+msgstr ""
+
+#: tba-settings.php:128
+msgid "Meta field for owner phone"
+msgstr ""
+
+#: tba-settings.php:135
+msgid "Post type for ads"
+msgstr ""
+
+#: tba-settings.php:136
+msgid "Select the post type used for ads."
+msgstr ""
+
+#: tba-settings.php:145
+msgid "Test mode enabled"
+msgstr ""
+
+#: tba-settings.php:146
+msgid ""
+"Enable test mode. When enabled, all tokens are evaluated as expired if they "
+"have been created more than 1 minute ago."
+msgstr ""
+
+#: tba-settings.php:152
+msgid "Token parameter name"
+msgstr ""
+
+#: tba-settings.php:153
+msgid "Name of the parameter for token in URLs."
+msgstr ""
+
+#: tba-settings.php:160
+msgid "Access details template"
+msgstr ""
+
+#: tba-settings.php:161
+msgid ""
+"Template for access details. Available placeholders: {{owner_name}}, "
+"{{owner_email}}, {{owner_phone}}."
+msgstr ""
+
+#: tba-settings.php:168
+msgid "Message not allowed to view"
+msgstr ""
+
+#: tba-settings.php:169
+msgid "Message displayed when user is not allowed to view content."
+msgstr ""
+
+#: tba-settings.php:176
+msgid "Message when access expired"
+msgstr ""
+
+#: tba-settings.php:177
+msgid "Message displayed when access to content has expired."
+msgstr ""
+
+#: tba-settings.php:184
+msgid "Message when access blocked"
+msgstr ""
+
+#: tba-settings.php:185
+msgid ""
+"Message displayed when access to content is blocked (token was used on "
+"another device)"
+msgstr ""
+
+#: tba-settings.php:192
+msgid "Email subject"
+msgstr ""
+
+#: tba-settings.php:193
+msgid ""
+"Subject line for the token email. Available placeholders: {{order_id}}, "
+"{{token_string}}, {{customer_full_name}}, {{customer_first_name}}, "
+"{{expiration_date}}."
+msgstr ""
+
+#: tba-settings.php:200
+msgid "Email template"
+msgstr ""
+
+#: tba-settings.php:201
+msgid ""
+"Email template for token delivery. Available placeholders: {{order_id}}, "
+"{{token_string}}, {{customer_full_name}}, {{customer_first_name}}, "
+"{{expiration_date}}, {{token_parameter}}"
+msgstr ""
